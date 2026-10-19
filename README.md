@@ -2,9 +2,6 @@
 
 Aplikasi dashboard interaktif berbasis Python dan Streamlit untuk mengeksplorasi karakteristik anime berdasarkan rating, genre, dan tipe media penayangan. Proyek ini menggunakan pendekatan CRISP-DM dan menerapkan Agglomerative Clustering untuk mengeksplorasi kelompok data anime.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ## Daftar Isi
 - [Latar Belakang](#latar-belakang)
