@@ -16,7 +16,6 @@ Aplikasi dashboard interaktif berbasis Python dan Streamlit untuk mengeksplorasi
 - [Struktur Repository](#struktur-repository)
 - [Instalasi dan Menjalankan Aplikasi](#instalasi-dan-menjalankan-aplikasi)
 - [Catatan Analisis](#catatan-analisis)
-- [Pengembangan Selanjutnya](#pengembangan-selanjutnya)
 
 ## Latar Belakang
 Dataset anime memuat informasi yang dapat dieksplorasi untuk memahami persebaran rating dan karakteristik konten. Dashboard ini mengemas proses eksplorasi dan visualisasi agar hasilnya lebih mudah dipahami tanpa harus membaca seluruh data mentah secara manual.
@@ -122,17 +121,7 @@ streamlit run main.py
 Buka alamat lokal yang ditampilkan di terminal untuk mengakses dashboard.
 
 ## Catatan Analisis
-- Hasil analisis dipengaruhi oleh kualitas dan cakupan dataset.
-- PCA mereduksi data menjadi dua dimensi sehingga sebagian informasi dari data asli dapat tidak terlihat pada visualisasi.
-- Jumlah cluster memengaruhi hasil pengelompokan.
-- Implementasi yang terdokumentasi saat ini berfokus pada analisis rating, visualisasi, dan clustering. Fitur rekomendasi personal belum dijelaskan sebagai fitur terpisah dalam implementasi yang tersedia.
-
-## Pengembangan Selanjutnya
-- Menambahkan metrik evaluasi clustering, misalnya Silhouette Score.
-- Mempermudah interpretasi cluster dengan menampilkan identitas atau karakteristik anime pada setiap kelompok.
-- Menambahkan filter berdasarkan genre, rating, dan tipe media.
-- Mengembangkan fitur rekomendasi berbasis preferensi jika memang ingin memperluas cakupan aplikasi.
-- Menambahkan screenshot dashboard atau tautan demo agar hasil aplikasi dapat dilihat langsung.
+Hasil analisis dipengaruhi oleh kualitas dan cakupan dataset. PCA memproyeksikan data ke dua dimensi untuk membantu visualisasi, sedangkan jumlah cluster yang dipilih memengaruhi hasil pengelompokan. Aplikasi ini berfokus pada analisis rating, visualisasi data, dan clustering.
 
 ---
 **Repository:** [2209116085_CRISP-DM_DEPLOYMENT](https://github.com/selaputriismalia/2209116085_CRISP-DM_DEPLOYMENT)  
