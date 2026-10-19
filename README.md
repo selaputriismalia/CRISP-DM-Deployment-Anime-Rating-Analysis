@@ -121,5 +121,4 @@ Buka alamat lokal yang ditampilkan di terminal untuk mengakses dashboard.
 Hasil analisis dipengaruhi oleh kualitas dan cakupan dataset. PCA memproyeksikan data ke dua dimensi untuk membantu visualisasi, sedangkan jumlah cluster yang dipilih memengaruhi hasil pengelompokan. Aplikasi ini berfokus pada analisis rating, visualisasi data, dan clustering.
 
 ---
-**Repository:** [2209116085_CRISP-DM_DEPLOYMENT](https://github.com/selaputriismalia/2209116085_CRISP-DM_DEPLOYMENT)  
 **Topik:** Analisis Data · Visualisasi Data · Machine Learning · CRISP-DM
